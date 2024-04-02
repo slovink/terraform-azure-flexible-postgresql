@@ -278,7 +278,7 @@ You need to run the following command in the testing folder:
   go test -run Test
 ```
 # Examples
-For detailed examples on how to use this module, please refer to the [example](https://github.com/slovink/terraform-azure-flexible-postgresql/blob/master/_example) directory within this repository.
+For detailed examples on how to use this module, please refer to the [example](https://github.com/slovink/terraform-azure-flexible-postgresql/blob/master/_examples) directory within this repository.
 
 
 ## License
